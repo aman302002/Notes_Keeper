@@ -14,3 +14,7 @@ npm start
 cd keeper-app-ui
 npm i
 npm start
+
+
+After this react-app will automatically open in your browser on address localhost:3000
+Your server is on the address localhost:4000
